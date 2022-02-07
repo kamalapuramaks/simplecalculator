@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 0a363ae3917c56451cfa3fd81a17f00b59ce98e9
+.header-logo {
+width: 96px;
+height: auto;
+}
 .footer {
 background-color: #007cba;
 color: white;
@@ -16,12 +15,9 @@ text-align: center;
 .btn-primary {
 background-color: #007cba;
 color: white;
-}.calculator-btn {
+}
+.calculator-btn {
 max-width: 300px;
 align-content: center;
-<<<<<<< HEAD
-=======
-
->>>>>>> 0a363ae3917c56451cfa3fd81a17f00b59ce98e9
 }
 
